@@ -1,2 +1,2 @@
 # pledge-drive
-Pledge cool bra thingy for awesome students
+Pledge cool bar chart thingy for awesome students
